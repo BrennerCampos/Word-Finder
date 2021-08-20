@@ -1,0 +1,10 @@
+9
+the 0
+quick 1
+brown 2
+fox 3
+jumps 4
+over 5
+the 6
+lazy 7
+dog 8
